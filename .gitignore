@@ -1,0 +1,9 @@
+.venv/
+.cache/
+.pytest_cache/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+data/
+.DS_Store
+Thumbs.db
